@@ -17,7 +17,7 @@ The image below demonstrates that men the majority were the one who rode bikes t
 ### Trips by Weekday for Each Hour Viz
 The image below demonstrates that throughout the weekday most of the rides happened in the morning between 7am and 9am and in the afternoon between 4pm to 7pm. 
 During the weekends most of the rides happened between 10 am  to 8 pm. 
-An explanation for this vizualization can be that the bikes are used before and after working hours during the weekdays because people use the bike to get to work and to leave work. 
+
 ![image](https://user-images.githubusercontent.com/100107588/172074746-2e30779f-272b-4362-b1bb-d2dd073f0f99.png)
 
 ### Trips by Gender (Weekday per Hour) Viz
@@ -29,4 +29,7 @@ The image below demosntrates in detail that men are the dominant substcriber com
 ![image](https://user-images.githubusercontent.com/100107588/172074958-ba7483d9-d955-4f05-a2c8-8dd50f309e60.png)
 
 ## Summary 
-
+These images demonstrate the importance of doing your research before starting a business. We were able to vizualize the data through Tableu and now we understand that: 
+* there are more men subscribers than women. 
+* During the weekday, both men and women subscribers mostly use the bikesharing service before working hours and after working hours. An explanation for this vizualization can be that the bikes are used before and after working hours during the weekdays because people use the bike to get to work and to leave work. 
+* Subscribers use the service 
