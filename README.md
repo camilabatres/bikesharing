@@ -32,4 +32,6 @@ The image below demosntrates in detail that men are the dominant substcriber com
 These images demonstrate the importance of doing your research before starting a business. We were able to vizualize the data through Tableu and now we understand that: 
 * there are more men subscribers than women. 
 * During the weekday, both men and women subscribers mostly use the bikesharing service before working hours and after working hours. An explanation for this vizualization can be that the bikes are used before and after working hours during the weekdays because people use the bike to get to work and to leave work. 
-* Subscribers use the service 
+
+[link to dashboard] (https://public.tableau.com/app/profile/camila.batres/viz/CamilaBatres/NYCBikes)
+[link to dashboard](https://public.tableau.com/app/profile/camila.batres/viz/CamilaBatres/NYCBikes)"link to dashboard")
